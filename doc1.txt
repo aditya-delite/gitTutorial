@@ -1,1 +1,2 @@
 first in doc1
+third in doc1 master
